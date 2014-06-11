@@ -10,7 +10,7 @@ For [SwiftCN.org].
 git clone https://github.com/jkeylu/hexo-theme-modernist-swiftcn.git themes/modernist-swiftcn
 ```
 
-**Modernist requires Hexo 2.4 and above.**
+**Modernist-SwiftCN requires Hexo 2.4 and above.**
 
 ## Enable
 Modify `theme` setting in `_config.yml` to `modernist-swiftcn`.
