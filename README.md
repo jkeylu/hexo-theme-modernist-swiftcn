@@ -1,24 +1,24 @@
-# Modernist
+# Modernist-SwiftCN
 
-> Theme for [Hexo]. Based on [modernist theme] for GitHub Pages.
+> Theme for [Hexo]. Fork from [heroicyang/hexo-theme-modernist]. And it based on [modernist theme] for GitHub Pages.
 
-[Demo the Theme]
+For [SwiftCN.org].
 
 ## Install
 
 ```
-git clone git://github.com/heroicyang/hexo-theme-modernist.git themes/modernist
+git clone https://github.com/jkeylu/hexo-theme-modernist-swiftcn.git themes/modernist-swiftcn
 ```
 
 **Modernist requires Hexo 2.4 and above.**
 
 ## Enable
-Modify `theme` setting in `_config.yml` to `modernist`.
+Modify `theme` setting in `_config.yml` to `modernist-swiftcn`.
 
 ## Update
 
 ```
-cd themes/modernist
+cd themes/modernist-swiftcn
 git pull
 ```
 
@@ -52,7 +52,8 @@ favicon: /favicon.ico
 - **favicon** - Favicon path
 
 [Hexo]: http://zespia.tw/hexo/
+[heroicyang/hexo-theme-modernist]: http://github.com/heroicyang/hexo-theme-modernist
 [modernist theme]: https://github.com/orderedlist/modernist
-[Demo the Theme]: http://heroicyang.com/
+[SwiftCN.org]: http://swiftcn.org/
 [Duoshuo]: http://duoshuo.com
 [Fancybox]: http://fancyapps.com/fancybox/
