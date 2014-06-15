@@ -10,3 +10,6 @@ duoshuo_shortname: swiftcnorg
 
 google_analytics:
 favicon: /favicon.ico
+
+default_github: swiftcn
+default_displayname: SwiftCN
