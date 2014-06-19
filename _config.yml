@@ -1,6 +1,6 @@
 menu:
-  Home: /
   Archives: /archives
+  About: /about
 rss: /atom.xml
 
 archive_date_format: MMM DD

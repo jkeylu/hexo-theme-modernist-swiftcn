@@ -41,6 +41,9 @@ duoshuo_shortname:
 # Miscellaneous
 google_analytics:
 favicon: /favicon.ico
+
+default_github: swiftcn
+default_displayname: SwiftCN
 ```
 
 - **menu** - Navigation menu
@@ -50,6 +53,8 @@ favicon: /favicon.ico
 - **duoshuo_shortname** - [Duoshuo] ID
 - **google_analytics** - Google Analytics ID
 - **favicon** - Favicon path
+- **default_github** - Default github username
+- **default_displayname** - Default display name
 
 [Hexo]: http://zespia.tw/hexo/
 [heroicyang/hexo-theme-modernist]: http://github.com/heroicyang/hexo-theme-modernist
